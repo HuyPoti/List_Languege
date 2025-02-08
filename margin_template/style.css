@@ -1,0 +1,19 @@
+body {
+  background-color: antiquewhite;
+}
+.container {
+  background-color: rgb(59, 213, 24);
+  margin: 0 auto;
+  width: 700px;
+  text-align: center;
+}
+.container h1 {
+  color: blueviolet;
+}
+.container p {
+  font-size: 20px;
+  line-height: 15px;
+}
+.container img {
+  min-height: 300px;
+}
