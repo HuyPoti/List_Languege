@@ -10,3 +10,8 @@ h3 + h3 {
 [class^="box"] {
   color: aqua;
 }
+.demobasic {
+  width: 100px;
+  height: 100px;
+  background-color: #000;
+}
